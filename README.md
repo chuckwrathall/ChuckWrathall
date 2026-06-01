@@ -7,9 +7,9 @@ Nova Scotia, Canada
 ---
 
 ### Research Interests
-- Lattice geometry and discrete mathematics  
-- Dynamical systems and fractal geometry  
-- Connections between geometry, theoretical physics, and materials science  
+- Mathematics   
+- Geometry  
+- Physics 
 
 ### Current Work
 - **Dual Affine Spiral Orbits on ℤ² from Paired Unit Squares**  
