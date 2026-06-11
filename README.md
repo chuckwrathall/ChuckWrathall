@@ -16,7 +16,7 @@ Nova Scotia, Canada
   Preprint introducing a new geometric construction on the integer lattice that generates two interlocking affine spirals and recovers the Twindragon fractal attractor.  
   Produces integer sequence **A396151** in the OEIS.  
 
-  → [View the full paper and animation](https://chuckwrathall.github.io/dual-affine-spiral-orbits/)
+  → [View the full paper and interactive model](https://chuckwrathall.github.io/dual-affine-spiral-orbits/)
 
 ---
 
