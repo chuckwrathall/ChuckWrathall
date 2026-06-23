@@ -15,7 +15,9 @@ Nova Scotia, Canada
   Produces integer sequence **A396151** in the OEIS.  
 
   → [View Research Page with Interactive Model](https://chuckwrathall.github.io/dual-affine-spiral-orbits/)
+
   → [View Paper on arXiv](https://arxiv.org/abs/2606.15506)
+
   → [View OEIS A396151](https://oeis.org/A396151)
 
 ---
