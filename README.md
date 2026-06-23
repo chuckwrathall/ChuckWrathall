@@ -7,23 +7,22 @@ Nova Scotia, Canada
 ---
 
 ### Research Interests
-- Mathematics   
-- Geometry  
-- Physics 
+- Physics, Geometry, Mathematics.
 
 ### Current Work
 - **Dual Affine Spiral Orbits on ℤ² from Paired Unit Squares**  
   Preprint introducing a new geometric construction on the integer lattice that generates two interlocking affine spirals and recovers the Twindragon fractal attractor.  
   Produces integer sequence **A396151** in the OEIS.  
 
-  → [View the full paper and interactive model](https://chuckwrathall.github.io/dual-affine-spiral-orbits/)
+  → [View Research Page with Interactive Model](https://chuckwrathall.github.io/dual-affine-spiral-orbits/)
+  → [View Paper on arXiv](https://arxiv.org/abs/2606.15506)
+  → [View OEIS A396151](https://oeis.org/A396151)
 
 ---
 
 ### Links
-- [Personal Research Site](https://chuckwrathall.github.io/dual-affine-spiral-orbits/)
 - [ORCID Profile](https://orcid.org/0009-0004-7008-4489)
-- [GitHub Repositories](https://github.com/chuckwrathall?tab=repositories)
+- [Instagram](https://www.instagram.com/chuckwrathall)
 
 ---
 
