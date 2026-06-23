@@ -7,7 +7,7 @@ Nova Scotia, Canada
 ---
 
 ### Research Interests
-- Physics, Geometry, Mathematics.
+- Carpentry, Construction Technologies, Physics, Geometry, Mathematics.
 
 ### Current Work
 - **Dual Affine Spiral Orbits on ℤ² from Paired Unit Squares**  
